@@ -1,0 +1,45 @@
+.card-project-tasks {  
+  max-width: 854px;
+
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    // padding: 0;
+
+    .head {
+      .group {
+        &-1 {
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: center;
+          gap: 20px;
+    
+          &.divider-top {
+            padding-top: 20px;
+            border-top: solid 1px black;
+          }
+    
+          .progress-stats {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+          }
+        }
+
+        &-2 {
+
+        }
+      }
+    }
+  
+    .body {
+      display: flex;
+      flex-direction: row !important;
+      flex-wrap: wrap;
+      gap: 10px 20px !important;
+    }
+  }
+}

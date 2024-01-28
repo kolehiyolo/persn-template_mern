@@ -1,0 +1,32 @@
+.item-task {
+  .group {
+    &-1 {
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      
+      .left {
+        
+      }
+      
+      .right {
+        display: flex;
+        flex-direction: column;
+        gap: 0px !important;
+        align-items: flex-start !important;
+
+        .name {
+          font-weight: bold;
+        }
+
+        .role {
+          font-size: 14px;
+        }
+      }
+    }
+
+    &-2 {
+
+    }
+  }
+}

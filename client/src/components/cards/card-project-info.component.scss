@@ -1,0 +1,98 @@
+.card-project-info {
+  min-width: 400px; 
+  max-width: 400px; 
+  flex-grow: 1;
+  align-self: flex-start;
+  
+  .card-body {
+    width: 400px; 
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px;
+  
+    .group {
+      &-1 {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+  
+        .left {
+
+          h5 {
+            font-size: 25px;
+            margin: 0;
+          }
+        }
+                
+        .right {
+          display: flex;
+          flex-direction: row;
+          // width: 100%;
+          gap: 10px;
+          align-items: center;
+          
+          .alert {
+            font-size: 15px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            margin: 0;
+            padding: 5px 10px;
+          }
+        }
+      }
+  
+      &-2 {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+      }
+  
+      &-3 {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        gap: 10px;
+        justify-content: space-between;
+
+        .right {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+
+          .members {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 100%;
+          }
+        }
+      }
+  
+      &-4 {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+  
+        .buttons {
+          display: flex;
+          flex-direction: row;
+          width: 100%;
+          // justify-content: space-between;
+          align-items: center;
+          gap: 10px;
+
+          button {
+            // width: 100px;
+          }
+        }
+      }
+    }
+  }
+}
+

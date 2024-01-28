@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65773f7c9407d34564bd6ee7"
+  },
+  "name": "Beat Kaido",
+  "description": "We need to beat the Yonko, and we'll do Kaido first",
+  "priority": "High",
+  "done": false,
+  "start": "2023-12-12",
+  "due": "2023-12-31",
+  "members": [
+    {
+      "_id": "65773b179407d34564bd6ed9",
+      "role": "Captain"
+    },
+    {
+      "_id": "65773bd49407d34564bd6edb",
+      "role": "Swordsman"
+    },
+    {
+      "_id": "65773c7c9407d34564bd6edd",
+      "role": "Thing"
+    }
+  ],
+  "tasks": [
+    "657741469407d34564bd6ef6"
+  ]
+}]

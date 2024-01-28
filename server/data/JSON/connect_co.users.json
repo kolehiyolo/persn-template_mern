@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "65773b179407d34564bd6ed9"
+  },
+  "name": {
+    "first": "Luffy",
+    "middle": "D.",
+    "last": "Monkey"
+  },
+  "main_role": "Captain",
+  "projects": [
+    "65773f7c9407d34564bd6ee7"
+  ],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png",
+  "username": "futurePirateKing01",
+  "password": "12341234",
+  "email": "luffy@strawhat.com",
+  "friends": [
+    "65773bd49407d34564bd6edb",
+    "65773c449407d34564bd6edc",
+    "65773c7c9407d34564bd6edd",
+    "65773d2b9407d34564bd6ede",
+    "65773d819407d34564bd6edf",
+    "65773dcf9407d34564bd6ee0",
+    "65773e179407d34564bd6ee1",
+    "65773e599407d34564bd6ee2",
+    "65773ebf9407d34564bd6ee3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65773bd49407d34564bd6edb"
+  },
+  "name": {
+    "first": "Zoro",
+    "middle": "",
+    "last": "Roronoa"
+  },
+  "main_role": "Swordsman",
+  "projects": [
+    "65773f7c9407d34564bd6ee7"
+  ],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png",
+  "username": "greatestSwordsman02",
+  "password": "12341234",
+  "email": "zoro@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773c449407d34564bd6edc"
+  },
+  "name": {
+    "first": "Nami",
+    "middle": "",
+    "last": "Cocoyashi"
+  },
+  "main_role": "Navigator",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png",
+  "username": "catBurglar03",
+  "password": "12341234",
+  "email": "nami@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773c7c9407d34564bd6edd"
+  },
+  "name": {
+    "first": "Usopp",
+    "middle": "",
+    "last": "Syrup"
+  },
+  "main_role": "Sniper",
+  "projects": [
+    "65773f7c9407d34564bd6ee7"
+  ],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png",
+  "username": "sniperKing04",
+  "password": "12341234",
+  "email": "usopp@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773d2b9407d34564bd6ede"
+  },
+  "name": {
+    "first": "Sanji",
+    "middle": "",
+    "last": "Vinsmoke"
+  },
+  "main_role": "Chef",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png",
+  "username": "blackLegLoverBoy05",
+  "password": "12341234",
+  "email": "sanji@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773d819407d34564bd6edf"
+  },
+  "name": {
+    "first": "Chopper",
+    "middle": "",
+    "last": "Toni Toni"
+  },
+  "main_role": "Doctor",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png",
+  "username": "manlyReindeer06",
+  "password": "12341234",
+  "email": "chopper@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773dcf9407d34564bd6ee0"
+  },
+  "name": {
+    "first": "Robin",
+    "middle": "",
+    "last": "Nico"
+  },
+  "main_role": "Archaeologist",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png",
+  "username": "shadowLimbs07",
+  "password": "12341234",
+  "email": "robin@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773e179407d34564bd6ee1"
+  },
+  "name": {
+    "first": "Franky",
+    "middle": "",
+    "last": "Tom"
+  },
+  "main_role": "Shipwright",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png",
+  "username": "superrrr08",
+  "password": "12341234",
+  "email": "franky@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773e599407d34564bd6ee2"
+  },
+  "name": {
+    "first": "Brook",
+    "middle": "",
+    "last": "Humming"
+  },
+  "main_role": "Musician",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png",
+  "username": "pantiesPlease09",
+  "password": "12341234",
+  "email": "brook@strawhat.com",
+  "friends": []
+},
+{
+  "_id": {
+    "$oid": "65773ebf9407d34564bd6ee3"
+  },
+  "name": {
+    "first": "Jinbei",
+    "middle": "",
+    "last": "Tiger"
+  },
+  "main_role": "Helmsman",
+  "projects": [],
+  "profile_picture": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png",
+  "username": "blueDaddy10",
+  "password": "12341234",
+  "email": "jinbei@strawhat.com",
+  "friends": []
+}]
